@@ -8,7 +8,7 @@
 
 实现技术：MQTT
 
-平台：IDEA + jdk1.8s
+平台：IDEA + jdk1.8
 
 ---
 
